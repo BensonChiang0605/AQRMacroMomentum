@@ -139,6 +139,7 @@ for index in index_list:
 
 	one_year_equity_returns[index] = yfinance_1y_diff(modified_url, headers)
 
+#dkjdfksjdnfwjndn
 
 print(one_year_equity_returns)
 
